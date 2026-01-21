@@ -46,6 +46,7 @@ Runs unit tests for your services.
 
 - [jammin on github](https://github.com/FluffyLabs/jammin)
 - [jammin on npm](https://www.npmjs.com/package/@fluffylabs/jammin)
+- [jade sdk](https://github.com/spacejamapp/jade)
 
 ## Next Steps
 
